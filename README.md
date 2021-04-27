@@ -1,4 +1,4 @@
-## *What the f\*\*\* were you expecting?*
+## *Don't use this, please.*
 
 [<img src="https://kckarnige.github.io/res/stylus_icon.svg" height="14px" width="14px"> Stylus Theme Install](https://github.com/kckarnige/literally-nothing-discord/raw/main/index.user.css)
 
