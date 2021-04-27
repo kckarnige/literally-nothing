@@ -1,0 +1,29 @@
+/**
+
+ * @name Literally Nothing
+ * @version 1.0.0
+ * @description Why would you enable this?
+ * @author KayoticCarnige
+ * @source https://github.com/kckarnige/literally-nothing
+
+**/
+
+* {
+    display: none;
+}
+  
+html, body {
+    display: block;
+    background: #2C2F33;
+}
+  
+#app-mount:after {
+    display: block;
+    color: white;
+    content: 'wtf did you expect from a theme called "Literally nothing"?';
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    color: #fff;
+    transform: translate(-50%, -50%);
+}
