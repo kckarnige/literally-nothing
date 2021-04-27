@@ -1,1 +1,1 @@
-## *What the fuck were you expecting?*
+## *What the f\*\*\* were you expecting?*
